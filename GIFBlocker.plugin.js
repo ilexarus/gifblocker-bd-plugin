@@ -1,4 +1,4 @@
-//META{"name":"GIFBlocker","author":"GPT","version":"2.6.1","description":"Блокирует GIF/картинки/ссылки по URL-паттернам, настраиваемая степень размытия, контекст-меню и ручная проверка обновлений.","updateUrl":"https://raw.githubusercontent.com/ilexarus/gifblocker-bd-plugin/refs/heads/main/GIFBlocker.plugin.js"}*//
+//META{"name":"GIFBlocker","author":"GPT","version":"2.6.1","description":"…","updateUrl":"https://raw.githubusercontent.com/ilexarus/gifblocker-bd-plugin/main/GIFBlocker.plugin.js"}*//
 
 module.exports = class GIFBlocker {
   constructor() {
